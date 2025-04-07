@@ -17,7 +17,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ay-dotcode)](https://git.io/streak-stats)
 [![Ay-dotcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ay-dotcode)](https://github.com/anuraghazra/github-readme-stats)
-![Ay-dotcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ay-dotcode&hide=contribs,prs)
-![Ay-dotcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ay-dotcode&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Ay-dotcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ay-dotcode&show_icons=true)
 ![Ay-dotcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ay-dotcode&show_icons=true&theme=radical)
