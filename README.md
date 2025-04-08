@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ay-dotcode&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ay-dotcode)](https://git.io/streak-stats)
 ![Ay-dotcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ay-dotcode&show_icons=true&theme=dark)
