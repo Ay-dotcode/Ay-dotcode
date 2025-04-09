@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ay-dotcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ay-dotcode&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ay-dotcode&theme=radical)](https://git.io/streak-stats)
+![Ay-dotcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ay-dotcode&theme=radical&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ay-dotcode&show_icons=true&theme=radical)](https://git.io/streak-stats)
