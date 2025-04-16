@@ -19,5 +19,4 @@ Here are some ideas to get you started: ==
 ![](https://github-readme-stats.vercel.app/api?username=Ay-dotcode&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ay-dotcode&theme=radical&hide_border=false)<br/>
 
-
-![snake gif](https://github.com/Ay-dotcode/Ay-dotcode/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Ay-dotcode/Ay-dotcode/blob/output/github-snake-dark.svg)<br/>
