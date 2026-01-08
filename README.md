@@ -14,9 +14,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ay-dotcode&theme=radical&show_icons=true)
-
+-->
+  
 ![snake gif](https://github.com/Ay-dotcode/Ay-dotcode/blob/output/github-snake-dark.svg)
 
 </div>
